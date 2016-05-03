@@ -1,5 +1,11 @@
+require "rest_model"
+require "rest-client"
+
 require "cartola/version"
+require "cartola/sponsor"
+require "cartola/match"
+require "cartola/matches"
+require "cartola/round"
 
 module Cartola
-  # Your code goes here...
 end
