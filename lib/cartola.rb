@@ -5,6 +5,7 @@ require "cartola/version"
 require "cartola/sponsor"
 require "cartola/match"
 require "cartola/matches"
+require "cartola/team"
 require "cartola/round"
 
 module Cartola
